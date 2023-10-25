@@ -1,6 +1,6 @@
 # Process-receipt-backend
 
-This is a webservice that fulfils the documented API ([api.yml](https://github.com/fetch-rewards/receipt-processor-challenge/blob/main/api.yml))
+This is a webservice that fulfils the documented API ([api.yml](https://github.com/fetch-rewards/receipt-processor-challenge/blob/main/api.yml)). Unit test was not done due to time constraint (48 hours). However, if done in industrial setting, unit test would be must. 
 > Note: This is my first time using Go. Although accepted in other language, I thought this would be good oppotunity to learn a new language and since the problem statement said that the reviewer already has go install I also thought it would be helpful for the reviewer
 
 ## How to run this webservice?
